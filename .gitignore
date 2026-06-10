@@ -1,0 +1,11 @@
+# Environment variables - never push these
+.env
+
+# Dependencies - recreated with npm install
+node_modules/
+
+# Next.js build files
+.next/
+
+# OS files
+.DS_Store
